@@ -3,6 +3,9 @@ uuid = "69095506-86ef-4123-ab34-43c988a9b131"
 authors = ["jonniedie <jonniedie@users.noreply.github.com>"]
 version = "0.1.0"
 
+[deps]
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+
 [compat]
 julia = "1"
 
