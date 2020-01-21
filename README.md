@@ -1,2 +1,2 @@
 # UnicodeSliders
-Sliders for interacting with your plots that are manipulated by the arrow keys, all from the comfort of your REPL.
+Sliders for interacting with your plots all from the comfort of your REPL.
